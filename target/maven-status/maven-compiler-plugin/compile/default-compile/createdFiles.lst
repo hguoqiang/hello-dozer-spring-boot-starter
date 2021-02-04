@@ -1,0 +1,9 @@
+org\hello\dozer\spring\boot\utils\ResolveGenericTypeUtils.class
+org\hello\dozer\spring\boot\autoconfigure\HelloDozerAutoConfiguration.class
+org\hello\dozer\spring\boot\utils\Pair.class
+org\hello\dozer\spring\boot\autoconfigure\HelloDozerBeanMapping.class
+org\hello\dozer\spring\boot\autoconfigure\HelloDozerBeanMapping$BeanFieldMapping.class
+org\hello\dozer\spring\boot\autoconfigure\AbstractBeanMappingBuilder.class
+org\hello\dozer\spring\boot\autoconfigure\HelloDozerBeanMapperFactoryBean$1.class
+org\hello\dozer\spring\boot\autoconfigure\HelloDozerBeanMapperFactoryBean.class
+org\hello\dozer\spring\boot\autoconfigure\HelloDozerBeanMapper.class
